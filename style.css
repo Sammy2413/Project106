@@ -1,0 +1,23 @@
+.copy_right_footer {
+
+    text-align: center;
+
+
+}
+
+body{
+    background-color: rgb(202, 220, 220);
+    font-family:'Courier New', Courier, monospace ;
+    
+}
+
+
+.col-xs-12header_divtext-center {
+    background-color: rgb(171, 205, 205);
+    text-align: center;
+}
+
+.copy_right_footer {
+    background-color: rgb(225, 236, 236);
+}
+
